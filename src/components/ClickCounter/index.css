@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.container {
+  padding-left: 60px;
+  padding-right: 70px;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 46px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.zero_heading {
+  color: #c20a72;
+  font-size: 46px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #2d3a35;
+  font-size: 21px;
+  align-self: center;
+  text-align: center;
+  font-family: 'Roboto';
+}
+.clickbtn {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+  list-style-type: none;
+  border: transparent 0px solid;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  cursor: pointer;
+  outline: none;
+}
